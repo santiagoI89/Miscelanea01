@@ -209,7 +209,7 @@ namespace ConsoleAppMiscelanea
                 Console.WriteLine("");
             } while (linea != "ayuda");
 
-            Console.WriteLine("Has ingresado: \t" + linea);
+        
         }
     }
 }
