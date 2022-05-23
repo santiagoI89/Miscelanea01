@@ -15,7 +15,7 @@ namespace ConsoleAppMiscelanea
         {
             Console.WriteLine("\nCalcular Area de un Triangulo");
             Console.WriteLine("");
-            Console.WriteLine("Ingrese dos valores enteros");
+            Console.WriteLine("Ingrese dos valores ");
             Console.WriteLine("Ingrese el valor de la base: ");
 
             try
@@ -46,7 +46,7 @@ namespace ConsoleAppMiscelanea
         {
             Console.WriteLine("\nSuma");
             Console.WriteLine("");
-            Console.WriteLine("Ingrese dos valores enteros");
+            Console.WriteLine("Ingrese dos valores ");
             Console.WriteLine("Ingrese el primer valor:");
             try
             {
