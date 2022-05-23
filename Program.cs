@@ -207,7 +207,7 @@ namespace ConsoleAppMiscelanea
                 }
                 Console.WriteLine("---------------------------------------------------------------------------------------------");
                 Console.WriteLine("");
-            } while (linea != "ayuda");
+            } while (linea != "");
 
         
         }
